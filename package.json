@@ -14,7 +14,7 @@
     "deploy": "./deploy_h5.sh"
   },
   "dependencies": {
-    "npm": "^6.1.0",
+    "npm": "^6.13.4",
     "webpack": "^4.27.1"
   }
 }
