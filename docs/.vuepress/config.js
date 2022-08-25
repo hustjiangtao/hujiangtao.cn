@@ -48,7 +48,7 @@ module.exports = {
             // lang: 'en-US',
             lang: 'zh-CN',
             // title: 'Jiangtao',
-            title: '木先生',
+            title: '1037号菜鸟',
             // description: 'Keep Calm and Carry On',
             description: '规则之内，无不可走之路'
         },

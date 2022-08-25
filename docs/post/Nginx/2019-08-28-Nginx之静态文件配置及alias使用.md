@@ -82,4 +82,4 @@ text/css application/xml text/javascript image/jpeg image/gif image/png;
 - [Nginx docs en](http://nginx.org/en/docs/)
 - [alias - Nginx docs](http://nginx.org/en/docs/http/ngx_http_core_module.html#alias)
 - [autoindex - Nginx docs](http://nginx.org/en/docs/http/ngx_http_autoindex_module.html)
-- [Nginx location 配置参考 - 木先生](https://www.hujiangtao.cn/post/Nginx/2018-03-24-Nginx%E4%B9%8Blocation%E9%85%8D%E7%BD%AE.html#%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99%EF%BC%9A)
+- [Nginx location 配置参考 - 1037号菜鸟](https://www.hujiangtao.cn/post/Nginx/2018-03-24-Nginx%E4%B9%8Blocation%E9%85%8D%E7%BD%AE.html#%E8%AF%AD%E6%B3%95%E8%A7%84%E5%88%99%EF%BC%9A)
