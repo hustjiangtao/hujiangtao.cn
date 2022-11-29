@@ -48,7 +48,7 @@ module.exports = {
             // lang: 'en-US',
             lang: 'zh-CN',
             // title: 'Jiangtao',
-            title: '1037号菜鸟',
+            title: '工作经验分享',
             // description: 'Keep Calm and Carry On',
             description: '规则之内，无不可走之路'
         },
@@ -169,7 +169,7 @@ module.exports = {
         },
         '@vuepress/back-to-top': true,
         'sitemap': {
-            hostname: 'https://www.hujiangtao.cn',
+            hostname: 'https://www.webppx.com',
             exclude: [
                 '/404.html',
                 '/404/',
