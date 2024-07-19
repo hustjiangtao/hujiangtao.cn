@@ -1,6 +1,10 @@
 User-agent: *
+Disallow: /
+
+User-agent: Googlebot
 Request-rate: 1/1
-Crawl-delay: 5
+Crawl-delay: 10
+Allow: /
 Disallow: /about*
 Disallow: /contact*
 Disallow: /zh/about*
